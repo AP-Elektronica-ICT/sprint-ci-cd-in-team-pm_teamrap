@@ -12,7 +12,7 @@ import com.crashlytics.android.Crashlytics;
 import io.fabric.sdk.android.Fabric;
 
 public class MainActivity extends AppCompatActivity {
-
+	//Dit is een zeer mooie comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
